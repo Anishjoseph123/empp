@@ -1,3 +1,5 @@
+// Creating Product Website with Pagination for a JSON Product API.
+
 import React, { useEffect, useState } from "react";
 import Json from "./Product.json";
 import "./product.css";
